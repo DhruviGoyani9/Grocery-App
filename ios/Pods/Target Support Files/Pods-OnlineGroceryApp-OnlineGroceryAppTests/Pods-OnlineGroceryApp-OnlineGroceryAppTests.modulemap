@@ -1,0 +1,6 @@
+framework module Pods_OnlineGroceryApp_OnlineGroceryAppTests {
+  umbrella header "Pods-OnlineGroceryApp-OnlineGroceryAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

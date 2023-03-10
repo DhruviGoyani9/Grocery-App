@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnlineGroceryApp</string>
+    <string name="facebook_app_id">1079163303477341</string>
+    <string name="default_notification_channel_id">channel-id-1</string>
+</resources>

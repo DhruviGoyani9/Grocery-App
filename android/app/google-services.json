@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "669604741129",
+    "project_id": "onliceryapp-93ddb",
+    "storage_bucket": "onliceryapp-93ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669604741129:android:88551ac03b0cc650d1b8d8",
+        "android_client_info": {
+          "package_name": "com.onlinegroceryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669604741129-vb5vljf8j26qha74q7ave4i0fgnirboh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlinegroceryapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "669604741129-bskj2v2bjninuua8ujanpnnsjcarh7o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALPaN6pZU-empranU_lOxW91WHLplY4dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669604741129-bskj2v2bjninuua8ujanpnnsjcarh7o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "669604741129-070vku2hcfkbh430lk4abgq07jfq5gg0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.OnlineGroceryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

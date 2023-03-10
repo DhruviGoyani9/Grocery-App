@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.onlinegroceryapp-mergeDebugResources-42:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/03802a3e2c7b46fcf0ab7cc7b75e2f0c/transformed/appcompat-1.4.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
